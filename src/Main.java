@@ -33,5 +33,18 @@ public class Main {
          * char = "a"
          * boolean = true/false
          */
+
+        // Variable and assign JAVA
+        String name = "Jhonatan";
+        System.out.println(name);
+
+        int myNum = 15;
+        System.out.println(myNum);
+
+        int secondNum = 5;
+        float myFloatNum = 5.99f;
+        char myLetter = 'D';
+        boolean myBool = true;
+        String myText = "Hello";
     }
 }
