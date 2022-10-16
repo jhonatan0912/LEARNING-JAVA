@@ -46,5 +46,9 @@ public class Main {
         char myLetter = 'D';
         boolean myBool = true;
         String myText = "Hello";
+
+        // Multiple variable assing
+        int x = 5, y = 6, z = 50;
+        System.out.println(x + y + z);
     }
 }
