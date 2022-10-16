@@ -9,5 +9,10 @@ public class Main {
         // When we use a print the string is showed in line, can be multiple lines
         System.out.print("This is a line just with print");
         System.out.print("This is another line with print");
+
+        // println with numbers
+        System.out.println(3);
+        System.out.println(358);
+        System.out.println(5000);
     }
 }
