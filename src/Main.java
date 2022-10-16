@@ -14,5 +14,8 @@ public class Main {
         System.out.println(3);
         System.out.println(358);
         System.out.println(5000);
+
+        // Summary operation with println
+        System.out.println(2 + 2);
     }
 }
