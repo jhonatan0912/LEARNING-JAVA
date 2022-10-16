@@ -20,5 +20,9 @@ public class Main {
 
         // Multiplication operation with println
         System.out.println(2 * 2);
+
+        /**
+         * Multiple line comment in Java
+         */
     }
 }
