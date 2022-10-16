@@ -50,5 +50,12 @@ public class Main {
         // Multiple variable assing
         int x = 5, y = 6, z = 50;
         System.out.println(x + y + z);
+
+        // IF condition
+        int firstNumIf = 22;
+        int secondNumIf = 44;
+        if (firstNumIf > secondNumIf) {
+            System.out.println("First number is greater than second");
+        }
     }
 }
