@@ -24,5 +24,14 @@ public class Main {
         /**
          * Multiple line comment in Java
          */
+
+        /**
+         * Variables types in JAVA
+         * String = cadena
+         * int = enteros
+         * float = decimales
+         * char = "a"
+         * boolean = true/false
+         */
     }
 }
