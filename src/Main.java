@@ -17,5 +17,8 @@ public class Main {
 
         // Summary operation with println
         System.out.println(2 + 2);
+
+        // Multiplication operation with println
+        System.out.println(2 * 2);
     }
 }
